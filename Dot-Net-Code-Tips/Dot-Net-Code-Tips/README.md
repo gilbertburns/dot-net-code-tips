@@ -1,4 +1,7 @@
-# Dot Net Code Tips
+# Dot Net Code Tips Solution
 
-http://dotnetcodetips.com
+[Dot Net Code Tips Website](http://dotnetcodetips.com)
+
+- Read a csv file
+
 
