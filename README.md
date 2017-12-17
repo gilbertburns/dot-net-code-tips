@@ -1,5 +1,5 @@
 # dot-net-code-tips
 
-http://dotnetcodetips.com
+[Dot Net Code Tips](http://dotnetcodetips.com)
 
 
