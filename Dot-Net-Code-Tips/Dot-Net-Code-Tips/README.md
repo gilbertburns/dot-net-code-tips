@@ -1,7 +1,13 @@
 # Dot Net Code Tips Solution
 
-[Dot Net Code Tips Website](http://dotnetcodetips.com)
+[Dot Net Code Tips](http://dotnetcodetips.com)
 
-- Read a csv file
+#### Shows how to read and parse a csv file
+````csharp
+var parser = new TextFieldParser(new StringReader(line))
+````
+
+
+
 
 
